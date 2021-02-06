@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/bender/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/github.io/bender/static/js/main.88fdfc86.chunk.js",
+    "main.js.map": "/github.io/bender/static/js/main.88fdfc86.chunk.js.map",
+    "runtime-main.js": "/github.io/bender/static/js/runtime-main.dea38cad.js",
+    "runtime-main.js.map": "/github.io/bender/static/js/runtime-main.dea38cad.js.map",
+    "static/js/2.e8c8ad08.chunk.js": "/github.io/bender/static/js/2.e8c8ad08.chunk.js",
+    "static/js/2.e8c8ad08.chunk.js.map": "/github.io/bender/static/js/2.e8c8ad08.chunk.js.map",
+    "static/js/3.4e2f1991.chunk.js": "/github.io/bender/static/js/3.4e2f1991.chunk.js",
+    "static/js/3.4e2f1991.chunk.js.map": "/github.io/bender/static/js/3.4e2f1991.chunk.js.map",
+    "index.html": "/github.io/bender/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/github.io/bender/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e8c8ad08.chunk.js.LICENSE.txt": "/github.io/bender/static/js/2.e8c8ad08.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/github.io/bender/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dea38cad.js",
+    "static/js/2.e8c8ad08.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.88fdfc86.chunk.js"
+  ]
+}
